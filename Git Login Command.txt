@@ -1,0 +1,9 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+
+
+
+
+*******************
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned (so i can run the script or any framework from my vs code terminal)
